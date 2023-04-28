@@ -1,4 +1,2 @@
-# Livro de receitas :cake: :man_cook:
-
-
+# Receitas :cake: :man_cook:
 
